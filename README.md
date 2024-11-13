@@ -27,3 +27,30 @@ To run the front- and back-end you simply run the docker compose in this directo
 - Install java and mvn for the backend
 - Compile the back-end (from the Companion-Queries folder) using the command "./mvnw clean package". This produces the necessary jar file for the next command to work.
 - execute "docker compose build" and then "docker compose up" from this folder.
+
+## How to cite
+This github repository is the source code for the project presented in the paper "**Supporting Companion Planting with the CoPla Ontology**" at the Knowledge Graph for Sustainability Workshop, at ESWC 2024 [[pdf](https://ceur-ws.org/Vol-3753/paper3.pdf)] . Please use the following bib information to cite the paper:
+
+```
+@inproceedings{DBLP:conf/kg4s/ZamprognoARNSKP24,
+  author       = {Giacomo Zamprogno and
+                  Mark Adamik and
+                  Ritten Roothaert and
+                  Ameneh Naghdipour and
+                  Lise Stork and
+                  Patrick Koopmann and
+                  Romana Pernisch and
+                  Benno Kruit and
+                  Jieying Chen and
+                  Ilaria Tiddi and
+                  Stefan Schlobach},
+  title        = {Supporting Companion Planting with the CoPla Ontology},
+  booktitle    = {KG4S@ESWC},
+  series       = {{CEUR} Workshop Proceedings},
+  volume       = {3753},
+  pages        = {29--41},
+  publisher    = {CEUR-WS.org},
+  year         = {2024}
+}
+```
+
