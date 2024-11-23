@@ -1,4 +1,23 @@
 <http://www.semanticweb.org/kai/ontologies/2024/companion-planting#> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Ontology> .
+<http://www.semanticweb.org/kai/ontologies/2024/companion-planting#> <http://www.w3.org/2002/07/owl#versionIRI> <http://www.semanticweb.org/kai/ontologies/2024/companion-planting#/v0.6.0> .
+<http://www.semanticweb.org/kai/ontologies/2024/companion-planting#> <http://purl.org/dc/elements/1.1/creator> "Ameneh Naghdipour" .
+<http://www.semanticweb.org/kai/ontologies/2024/companion-planting#> <http://purl.org/dc/elements/1.1/creator> "Benno Kruit" .
+<http://www.semanticweb.org/kai/ontologies/2024/companion-planting#> <http://purl.org/dc/elements/1.1/creator> "Giacomo Zamprogno" .
+<http://www.semanticweb.org/kai/ontologies/2024/companion-planting#> <http://purl.org/dc/elements/1.1/creator> "Ilaria Tiddi" .
+<http://www.semanticweb.org/kai/ontologies/2024/companion-planting#> <http://purl.org/dc/elements/1.1/creator> "Jieying Chen" .
+<http://www.semanticweb.org/kai/ontologies/2024/companion-planting#> <http://purl.org/dc/elements/1.1/creator> "Lise Stork" .
+<http://www.semanticweb.org/kai/ontologies/2024/companion-planting#> <http://purl.org/dc/elements/1.1/creator> "Mark Adamik" .
+<http://www.semanticweb.org/kai/ontologies/2024/companion-planting#> <http://purl.org/dc/elements/1.1/creator> "Patrick Koopmann" .
+<http://www.semanticweb.org/kai/ontologies/2024/companion-planting#> <http://purl.org/dc/elements/1.1/creator> "Ritten Roothaert" .
+<http://www.semanticweb.org/kai/ontologies/2024/companion-planting#> <http://purl.org/dc/elements/1.1/creator> "Romana Pernisch" .
+<http://www.semanticweb.org/kai/ontologies/2024/companion-planting#> <http://purl.org/dc/elements/1.1/creator> "Stefan Schlobach" .
+<http://www.semanticweb.org/kai/ontologies/2024/companion-planting#> <http://purl.org/dc/terms/created> "26.01.2024" .
+<http://www.semanticweb.org/kai/ontologies/2024/companion-planting#> <http://purl.org/dc/terms/description> "Companion Planting Ontology is a resource developed by the Knowledge in AI group of Vrije Universiteit Amsterdam, for the purpose of understanding and implementing companion planting strategies in agriculture. Companion planting is the practice of growing certain plants in proximity for pest control, pollination, providing habitat for beneficial creatures, maximizing use of space, and to otherwise increase crop productivity." .
+<http://www.semanticweb.org/kai/ontologies/2024/companion-planting#> <http://purl.org/dc/terms/modified> "18.04.2024" .
+<http://www.semanticweb.org/kai/ontologies/2024/companion-planting#> <http://purl.org/dc/terms/title> "Companion Planting Ontology" .
+<http://www.semanticweb.org/kai/ontologies/2024/companion-planting#> <http://purl.org/vocab/vann/preferredNamespacePrefix> "copla" .
+<http://www.semanticweb.org/kai/ontologies/2024/companion-planting#> <http://www.w3.org/2000/01/rdf-schema#label> "Companion Planting Ontology" .
+<http://www.semanticweb.org/kai/ontologies/2024/companion-planting#> <http://www.w3.org/2002/07/owl#versionInfo> "0.6.0" .
 # 
 # 
 # #################################################################

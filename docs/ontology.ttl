@@ -6,7 +6,26 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @base <http://www.semanticweb.org/kai/ontologies/2024/companion-planting#> .
 
-<http://www.semanticweb.org/kai/ontologies/2024/companion-planting#> rdf:type owl:Ontology .
+<http://www.semanticweb.org/kai/ontologies/2024/companion-planting#> rdf:type owl:Ontology ;
+                                                                      owl:versionIRI <http://www.semanticweb.org/kai/ontologies/2024/companion-planting#/v0.6.0> ;
+                                                                      <http://purl.org/dc/elements/1.1/creator> "Ameneh Naghdipour" ,
+                                                                                                                "Benno Kruit" ,
+                                                                                                                "Giacomo Zamprogno" ,
+                                                                                                                "Ilaria Tiddi" ,
+                                                                                                                "Jieying Chen" ,
+                                                                                                                "Lise Stork" ,
+                                                                                                                "Mark Adamik" ,
+                                                                                                                "Patrick Koopmann" ,
+                                                                                                                "Ritten Roothaert" ,
+                                                                                                                "Romana Pernisch" ,
+                                                                                                                "Stefan Schlobach" ;
+                                                                      <http://purl.org/dc/terms/created> "26.01.2024" ;
+                                                                      <http://purl.org/dc/terms/description> "Companion Planting Ontology is a resource developed by the Knowledge in AI group of Vrije Universiteit Amsterdam, for the purpose of understanding and implementing companion planting strategies in agriculture. Companion planting is the practice of growing certain plants in proximity for pest control, pollination, providing habitat for beneficial creatures, maximizing use of space, and to otherwise increase crop productivity." ;
+                                                                      <http://purl.org/dc/terms/modified> "18.04.2024" ;
+                                                                      <http://purl.org/dc/terms/title> "Companion Planting Ontology" ;
+                                                                      <http://purl.org/vocab/vann/preferredNamespacePrefix> "copla" ;
+                                                                      rdfs:label "Companion Planting Ontology" ;
+                                                                      owl:versionInfo "0.6.0" .
 
 #################################################################
 #    Annotation properties

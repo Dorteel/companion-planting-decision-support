@@ -10,7 +10,27 @@
      xmlns:vann="http://purl.org/vocab/vann/"
      xmlns:terms="http://purl.org/dc/terms/"
      xmlns:terms1="http://rs.tdwg.org/dwc/terms/">
-    <owl:Ontology rdf:about="http://www.semanticweb.org/kai/ontologies/2024/companion-planting#"/>
+    <owl:Ontology rdf:about="http://www.semanticweb.org/kai/ontologies/2024/companion-planting#">
+        <owl:versionIRI rdf:resource="http://www.semanticweb.org/kai/ontologies/2024/companion-planting#/v0.6.0"/>
+        <dc:creator>Ameneh Naghdipour</dc:creator>
+        <dc:creator>Benno Kruit</dc:creator>
+        <dc:creator>Giacomo Zamprogno</dc:creator>
+        <dc:creator>Ilaria Tiddi</dc:creator>
+        <dc:creator>Jieying Chen</dc:creator>
+        <dc:creator>Lise Stork</dc:creator>
+        <dc:creator>Mark Adamik</dc:creator>
+        <dc:creator>Patrick Koopmann</dc:creator>
+        <dc:creator>Ritten Roothaert</dc:creator>
+        <dc:creator>Romana Pernisch</dc:creator>
+        <dc:creator>Stefan Schlobach</dc:creator>
+        <terms:created>26.01.2024</terms:created>
+        <terms:description>Companion Planting Ontology is a resource developed by the Knowledge in AI group of Vrije Universiteit Amsterdam, for the purpose of understanding and implementing companion planting strategies in agriculture. Companion planting is the practice of growing certain plants in proximity for pest control, pollination, providing habitat for beneficial creatures, maximizing use of space, and to otherwise increase crop productivity.</terms:description>
+        <terms:modified>18.04.2024</terms:modified>
+        <terms:title>Companion Planting Ontology</terms:title>
+        <vann:preferredNamespacePrefix>copla</vann:preferredNamespacePrefix>
+        <rdfs:label>Companion Planting Ontology</rdfs:label>
+        <owl:versionInfo>0.6.0</owl:versionInfo>
+    </owl:Ontology>
     
 
 

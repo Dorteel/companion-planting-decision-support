@@ -33304,7 +33304,54 @@
   } ]
 }, {
   "@id" : "http://www.semanticweb.org/kai/ontologies/2024/companion-planting#",
-  "@type" : [ "http://www.w3.org/2002/07/owl#Ontology" ]
+  "@type" : [ "http://www.w3.org/2002/07/owl#Ontology" ],
+  "http://purl.org/dc/elements/1.1/creator" : [ {
+    "@value" : "Ameneh Naghdipour"
+  }, {
+    "@value" : "Benno Kruit"
+  }, {
+    "@value" : "Giacomo Zamprogno"
+  }, {
+    "@value" : "Ilaria Tiddi"
+  }, {
+    "@value" : "Jieying Chen"
+  }, {
+    "@value" : "Lise Stork"
+  }, {
+    "@value" : "Mark Adamik"
+  }, {
+    "@value" : "Patrick Koopmann"
+  }, {
+    "@value" : "Ritten Roothaert"
+  }, {
+    "@value" : "Romana Pernisch"
+  }, {
+    "@value" : "Stefan Schlobach"
+  } ],
+  "http://purl.org/dc/terms/created" : [ {
+    "@value" : "26.01.2024"
+  } ],
+  "http://purl.org/dc/terms/description" : [ {
+    "@value" : "Companion Planting Ontology is a resource developed by the Knowledge in AI group of Vrije Universiteit Amsterdam, for the purpose of understanding and implementing companion planting strategies in agriculture. Companion planting is the practice of growing certain plants in proximity for pest control, pollination, providing habitat for beneficial creatures, maximizing use of space, and to otherwise increase crop productivity."
+  } ],
+  "http://purl.org/dc/terms/modified" : [ {
+    "@value" : "18.04.2024"
+  } ],
+  "http://purl.org/dc/terms/title" : [ {
+    "@value" : "Companion Planting Ontology"
+  } ],
+  "http://purl.org/vocab/vann/preferredNamespacePrefix" : [ {
+    "@value" : "copla"
+  } ],
+  "http://www.w3.org/2000/01/rdf-schema#label" : [ {
+    "@value" : "Companion Planting Ontology"
+  } ],
+  "http://www.w3.org/2002/07/owl#versionIRI" : [ {
+    "@id" : "http://www.semanticweb.org/kai/ontologies/2024/companion-planting#/v0.6.0"
+  } ],
+  "http://www.w3.org/2002/07/owl#versionInfo" : [ {
+    "@value" : "0.6.0"
+  } ]
 }, {
   "@id" : "http://www.semanticweb.org/kai/ontologies/2024/companion-planting#3CompanionGarden",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
